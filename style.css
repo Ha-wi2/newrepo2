@@ -1,0 +1,21 @@
+p{
+    color: #bc0e0e;
+}
+h1{
+    text-align: center; 
+    text-decoration: underline black;
+    font-style: italic; 
+    
+}
+h2{
+    text-align: center;
+    text-decoration:underline;
+}
+body{
+    background-image:url(bright-blue-business-background_327072-31093.avif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.nav{
+    
+}
