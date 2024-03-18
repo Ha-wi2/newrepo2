@@ -1,21 +1,43 @@
-p{
-    color: #bc0e0e;
-}
-h1{
-    text-align: center; 
-    text-decoration: underline black;
-    font-style: italic; 
-    
-}
-h2{
+p {
     text-align: center;
-    text-decoration:underline;
+    color: #bc0e0e;
+
 }
-body{
-    background-image:url(bright-blue-business-background_327072-31093.avif);
-background-repeat: no-repeat;
-background-size: cover;
+
+h1 {
+    text-align: center;
+    text-decoration: underline black;
+    font-style: italic;
+    margin: 0%;
+
 }
-.nav{
-    
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    background-image: url(bright-blue-business-background_327072-31093.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+background-blend-mode:normal;
+}
+
+.nav {
+    width: 100%;
+}
+
+.bob {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+}
+.mailto{ color:blue;
+   
+}
+.contact{
+    color: blue;
 }
